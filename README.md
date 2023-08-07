@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Erly Rivera</h1>
-<h3 align="center">I'm a Software Engineering student at San Marcos University in Peru 🇵🇪</h3>
+<h2 align="center">Hi 👋, I'm Erly Rivera</h2>
 
-- 🌱 I’m currently learning **cybersecurity in kali Linux**
+- 👨‍🎓 I'm a **Software Engineering student** at San Marcos University in Peru 🇵🇪
+- 🌱 I’m currently learning **cybersecurity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
