@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Erly Rivera</h2>
 
 - 👨‍🎓 I'm a **Software Engineering student** at San Marcos University in Peru 🇵🇪
-- 🌱 I’m currently learning **cybersecurity**
+- 🌱 I am currently learning **cybersecurity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
